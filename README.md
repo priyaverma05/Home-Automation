@@ -45,7 +45,7 @@ The Home Automation System is an IoT-based embedded system designed to provide s
 🔹Future upgrades include LoRa and smart grid integration for sustainable energy management.
 
 
-💡 Project Impact & Future Enhancements
+## 💡 Project Impact & Future Enhancements
 
 🔹 Enhanced AI Automation: Predictive learning to adjust settings dynamically.
 
